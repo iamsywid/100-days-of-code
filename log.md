@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 8, 2018
+### Day 0: August 4, 2018
 
 **Today's Progress**: Trying to fix issues with dependencies.
 
