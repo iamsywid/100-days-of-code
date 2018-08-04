@@ -9,7 +9,12 @@
 - Also came across an article about [Feature Flags](https://www.sitepoint.com/how-to-use-feature-flags-in-continuous-integration/). Rollback is always tricky and it's great to have a tool that could turn off features. I would like to learn more about how we could manage rollbacks in CI.
 - Added the [WakaTime](https://wakatime.com) plugin to Visual Studio Code and Android Studio. Looks cool to see some metrics. I've always wanted to learn about visualization. :nerd_face:
 - For some reason, my laptop :computer: runs relatively slower today.
-- Got curious if emoji's could be displayed in markdown. Googled it and found out about [gitmoji](https://gitmoji.carloscuesta.me/). This looks fun! *Yes, this is how I get distracted.*
+- Got curious if emojis could be displayed in markdown. Googled it and found out about [gitmoji](https://gitmoji.carloscuesta.me/). This looks fun! *Yes, this is how I get distracted.*
+
+**More Thoughts:**
+- Trying to understand switchMap led me to [ngConf youtube video](https://www.youtube.com/watch?v=rUZ9CjcaCEw) and then I learned about [http://HiRez.io](http://HiRez.io).
+- Ended up watching all the lessons in [JavaScript Unit Testing Theory](https://school.hirez.io/courses/take/javascript-unit-testing-theory/lessons/4298910-episode-7-how-to-structure-your-tests)
+- *What was I trying to resolve again?* :sweat_smile:
 
 **Link to work:** [weekend-goals](https://iamsywid.github.io/weekend-goals/)
 
