@@ -7,14 +7,19 @@
 **Thoughts:**
 
 - The plan is to complete all tutorials in the Android-Kotlin series this week.
-    1. [Kotlin 101: Material basics](https://codelabs.developers.google.com/codelabs/mdc-101-kotlin/#1)
-    2. [Kotlin 102: Structure and layout](https://codelabs.developers.google.com/codelabs/mdc-102-kotlin/#0)
-    3. [Kotlin 103: Theming with color, shape, motion, and type](https://codelabs.developers.google.com/codelabs/mdc-103-kotlin/#0)
-    4. [Kotlin 104: Advanced components](https://codelabs.developers.google.com/codelabs/mdc-104-kotlin/#0)
-    5. [Kotlin 111: Incorporating Material components into your codebase](https://codelabs.developers.google.com/codelabs/mdc-111-kotlin/#0)
+    - [x] [Kotlin 101: Material basics](https://codelabs.developers.google.com/codelabs/mdc-101-kotlin/#1)
+    - [ ] [Kotlin 102: Structure and layout](https://codelabs.developers.google.com/codelabs/mdc-102-kotlin/#0)
+    - [ ] [Kotlin 103: Theming with color, shape, motion, and type](https://codelabs.developers.google.com/codelabs/mdc-103-kotlin/#0)
+    - [ ] [Kotlin 104: Advanced components](https://codelabs.developers.google.com/codelabs/mdc-104-kotlin/#0)
+    - [ ] [Kotlin 111: Incorporating Material components into your codebase](https://codelabs.developers.google.com/codelabs/mdc-111-kotlin/#0)
 
 **More Thoughts:**
 
+- Topics to explore
+    1. FrameLayout
+    2. [MDC Text Field](https://material.io/design/components/text-fields.html#)
+    3. [MDC Button](https://material.io/design/components/buttons.html)
+    4. kotlin-android-extensions
 - Just had Odontectomy :mask: and slept :sleeping: most of the day. Thankfully, it wasn't as bad as I imagined.
 
 **Link to work:** :soon:
