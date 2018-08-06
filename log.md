@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+### Day 2: August 6, 2018 (Monday)
+
+**Today's Progress**: Continued with the Material Design [Developer Tutorials](https://material.io/collections/developer-tutorials/#android-kotlin) Android - Kotlin series
+
+**Thoughts:**
+
+- The plan is to complete all tutorials in the Android-Kotlin series this week.
+    - [x] [Kotlin 101: Material basics](https://codelabs.developers.google.com/codelabs/mdc-101-kotlin/#1)
+    - [x] [Kotlin 102: Structure and layout](https://codelabs.developers.google.com/codelabs/mdc-102-kotlin/#0)
+    - [ ] [Kotlin 103: Theming with color, shape, motion, and type](https://codelabs.developers.google.com/codelabs/mdc-103-kotlin/#0)
+    - [ ] [Kotlin 104: Advanced components](https://codelabs.developers.google.com/codelabs/mdc-104-kotlin/#0)
+    - [ ] [Kotlin 111: Incorporating Material components into your codebase](https://codelabs.developers.google.com/codelabs/mdc-111-kotlin/#0)
+- Just found out about ["Can I use"](https://caniuse.com/#search=csp) while learning about Content Security Policies
+
+**More Thoughts:**
+
+- Topics to explore
+    1. AppBarLayout
+    2. MaterialCardView
+    3. NestedScrollView
+    4. RecyclerView
+    5. [Responsive layout grid](https://material.io/design/layout/responsive-layout-grid.html#)
+    6. [Bidirectionality](https://material.io/design/usability/bidirectionality.html#)
+
+**Link to work:** :soon:
+
 ### Day 1: August 5, 2018 (Sunday)
 
 **Today's Progress**: Learning about Google Material by following the [Developer Tutorials](https://material.io/collections/developer-tutorials/#android-kotlin)

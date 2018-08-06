@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [August 4, Saturday, 2018].
 
 ## Log
 
+### R1D2
+Continued with the Material Design [Developer Tutorials](https://material.io/collections/developer-tutorials/#android-kotlin) Android - Kotlin series
+
 ### R1D1
 Learning about Google Material by following the [Developer Tutorials](https://material.io/collections/developer-tutorials/#android-kotlin)
 
