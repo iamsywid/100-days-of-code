@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 3: August 7, 2018 (Tuesday)
+
+**Today's Progress**: Completed [Kotlin 103: Theming with color, shape, motion, and type](https://codelabs.developers.google.com/codelabs/mdc-103-kotlin/#0)
+
+**Thoughts:**
+
+- Something's up with the way I open the project in Android Studio. Getting errors if I don't use "Open an existing Android Studio project". :confused: Probably has something to do with module dependencies again.
+- The plan is to complete all tutorials in the Android-Kotlin series this week.
+    - [x] [Kotlin 101: Material basics](https://codelabs.developers.google.com/codelabs/mdc-101-kotlin/#1)
+    - [x] [Kotlin 102: Structure and layout](https://codelabs.developers.google.com/codelabs/mdc-102-kotlin/#0)
+    - [x] [Kotlin 103: Theming with color, shape, motion, and type](https://codelabs.developers.google.com/codelabs/mdc-103-kotlin/#0)
+    - [ ] [Kotlin 104: Advanced components](https://codelabs.developers.google.com/codelabs/mdc-104-kotlin/#0)
+    - [ ] [Kotlin 111: Incorporating Material components into your codebase](https://codelabs.developers.google.com/codelabs/mdc-111-kotlin/#0)
+
+**Link to work:** :soon:
+
 ### Day 2: August 6, 2018 (Monday)
 
 **Today's Progress**: Continued with the Material Design [Developer Tutorials](https://material.io/collections/developer-tutorials/#android-kotlin) Android - Kotlin series
