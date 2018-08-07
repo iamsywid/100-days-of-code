@@ -14,6 +14,14 @@
     - [ ] [Kotlin 104: Advanced components](https://codelabs.developers.google.com/codelabs/mdc-104-kotlin/#0)
     - [ ] [Kotlin 111: Incorporating Material components into your codebase](https://codelabs.developers.google.com/codelabs/mdc-111-kotlin/#0)
 
+**More Thoughts:**
+
+- [MATERIAL PALETTE](https://material.io/tools/color/#!/?view.left=0&view.right=0)
+- [Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
+    > Make sure text-to-background color contrast is at an accessible ratio (3:1 for large type, 4.5:1 for small).
+    
+    *Reference: [Kotlin 103: Theming with color, shape, motion, and type](https://codelabs.developers.google.com/codelabs/mdc-103-kotlin/#2)*
+
 **Link to work:** :soon:
 
 ### Day 2: August 6, 2018 (Monday)
