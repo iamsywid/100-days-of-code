@@ -19,7 +19,7 @@
 - [XML Naming Convention](https://jeroenmols.com/blog/2016/03/07/resourcenaming/)
 - [Re-using layouts with `<include/>`](https://developer.android.com/training/improving-layouts/reusing-layouts)
 - [Material Design - Android](https://material.io/develop/android/)
-- [Firebase Android Codelab](Firebase Android Codelab)
+- [Firebase Android Codelab](https://codelabs.developers.google.com/codelabs/firebase-android/#0)
 - [Amdroid 9 Pie](https://www.android.com/versions/pie-9-0/)
 - [Integrating Security into the CI/CD Pipeline: An Introduction](https://mattboegner.com/secure_cicd_pipeline_1/)
 
