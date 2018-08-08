@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 4: August 8, 2018 (Wednesday)
+
+**Today's Progress**: Completed [Kotlin 104: Advanced components](https://codelabs.developers.google.com/codelabs/mdc-104-kotlin/#0)
+
+**Thoughts:**
+
+- Something's up with the way I open the project in Android Studio. Getting errors if I don't use "Open an existing Android Studio project". :confused: Probably has something to do with module dependencies again.
+- The plan is to complete all tutorials in the Android-Kotlin series this week.
+    - [x] [Kotlin 101: Material basics](https://codelabs.developers.google.com/codelabs/mdc-101-kotlin/#1)
+    - [x] [Kotlin 102: Structure and layout](https://codelabs.developers.google.com/codelabs/mdc-102-kotlin/#0)
+    - [x] [Kotlin 103: Theming with color, shape, motion, and type](https://codelabs.developers.google.com/codelabs/mdc-103-kotlin/#0)
+    - [x] [Kotlin 104: Advanced components](https://codelabs.developers.google.com/codelabs/mdc-104-kotlin/#0)
+    - [ ] [Kotlin 111: Incorporating Material components into your codebase](https://codelabs.developers.google.com/codelabs/mdc-111-kotlin/#0)
+
+**More Thoughts:**
+
+- [XML Naming Convention](https://jeroenmols.com/blog/2016/03/07/resourcenaming/)
+- [Re-using layouts with `<include/>`](https://developer.android.com/training/improving-layouts/reusing-layouts)
+- [Material Design - Android](https://material.io/develop/android/)
+- [Firebase Android Codelab](Firebase Android Codelab)
+- [Amdroid 9 Pie](https://www.android.com/versions/pie-9-0/)
+- [Integrating Security into the CI/CD Pipeline: An Introduction](https://mattboegner.com/secure_cicd_pipeline_1/)
+
+**Link to work:** :soon:
+
 ### Day 3: August 7, 2018 (Tuesday)
 
 **Today's Progress**: Completed [Kotlin 103: Theming with color, shape, motion, and type](https://codelabs.developers.google.com/codelabs/mdc-103-kotlin/#0)

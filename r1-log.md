@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [August 4, Saturday, 2018].
 
 ## Log
 
+### R1D4
+Completed [Kotlin 104: Advanced components](https://codelabs.developers.google.com/codelabs/mdc-104-kotlin/#0)
+
 ### R1D3
 Completed [Kotlin 103: Theming with color, shape, motion, and type](https://codelabs.developers.google.com/codelabs/mdc-103-kotlin/#0)
 
