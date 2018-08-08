@@ -6,7 +6,6 @@
 
 **Thoughts:**
 
-- Something's up with the way I open the project in Android Studio. Getting errors if I don't use "Open an existing Android Studio project". :confused: Probably has something to do with module dependencies again.
 - The plan is to complete all tutorials in the Android-Kotlin series this week.
     - [x] [Kotlin 101: Material basics](https://codelabs.developers.google.com/codelabs/mdc-101-kotlin/#1)
     - [x] [Kotlin 102: Structure and layout](https://codelabs.developers.google.com/codelabs/mdc-102-kotlin/#0)
