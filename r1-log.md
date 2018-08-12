@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [August 4, Saturday, 2018].
 
 ## Log
 
+### R1D5
+Completed [Kotlin 111: Incorporating Material components into your codebase](https://codelabs.developers.google.com/codelabs/mdc-111-kotlin/#0)
+
 ### R1D4
 Completed [Kotlin 104: Advanced components](https://codelabs.developers.google.com/codelabs/mdc-104-kotlin/#0)
 
