@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 5: August 12, 2018 (Sunday)
+
+**Today's Progress**: Completed [Kotlin 111: Incorporating Material components into your codebase](https://codelabs.developers.google.com/codelabs/mdc-111-kotlin/#0)
+
+**Thoughts:**
+- Completed all tutorials in the Android-Kotlin series this week.
+    - [x] [Kotlin 101: Material basics](https://codelabs.developers.google.com/codelabs/mdc-101-kotlin/#1)
+    - [x] [Kotlin 102: Structure and layout](https://codelabs.developers.google.com/codelabs/mdc-102-kotlin/#0)
+    - [x] [Kotlin 103: Theming with color, shape, motion, and type](https://codelabs.developers.google.com/codelabs/mdc-103-kotlin/#0)
+    - [x] [Kotlin 104: Advanced components](https://codelabs.developers.google.com/codelabs/mdc-104-kotlin/#0)
+    - [x] [Kotlin 111: Incorporating Material components into your codebase](https://codelabs.developers.google.com/codelabs/mdc-111-kotlin/#0)
+
+**More Thoughts:**
+- Trying out [PyCharm](https://www.jetbrains.com/pycharm/)
+
 ### Day 4: August 8, 2018 (Wednesday)
 
 **Today's Progress**: Completed [Kotlin 104: Advanced components](https://codelabs.developers.google.com/codelabs/mdc-104-kotlin/#0)
