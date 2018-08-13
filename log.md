@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 6: August 13, 2018 (Monday)
+
+**Today's Progress**: - Started [Firebase Android Codelab](https://codelabs.developers.google.com/codelabs/firebase-android/#0)
+
+**Thoughts:**
+- A lot of things to read. Really need to limit the time I spend watching Asian dramas to once a week. :see_no_evil:
+
+**More Thoughts:**
+- To Read:
+    - [ ] [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+    - [ ] [Android Kotlin Style Guide](https://android.github.io/kotlin-guides/style.html)
+    - [ ] [Firebase Database Security](https://firebase.google.com/docs/database/security/#section-overview)
+
+**Link to work:** :soon:
+
 ### Day 5: August 12, 2018 (Sunday)
 
 **Today's Progress**: Completed [Kotlin 111: Incorporating Material components into your codebase](https://codelabs.developers.google.com/codelabs/mdc-111-kotlin/#0)
@@ -14,6 +29,8 @@
 
 **More Thoughts:**
 - Trying out [PyCharm](https://www.jetbrains.com/pycharm/)
+
+**Link to work:** :soon:
 
 ### Day 4: August 8, 2018 (Wednesday)
 
