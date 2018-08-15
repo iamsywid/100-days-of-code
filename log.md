@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log
 
+### Day 7: August 16, 2018 (Thursday)
+
+**Today's Progress**:
+
+**Thoughts:**
+-
+
+**More Thoughts:**
+- Too sleepy :sleeping: to do anything after getting home from work. Commute :bus: took like 2 hours.
+- Hope to catch up soon!
+- Would like to work on something that includes the following:
+    - [ ] Material Components
+    - [ ] QR Code
+    - [ ] SVG
+    - [ ] Camera
+    - [ ] Gallery
+    - [ ] Share
+    - [ ] Calendar
+    - [ ] Maps
+    - [ ] Libraries
+    - [ ] Firebase
+    - [ ] Best Practices
+    - [ ] Design Patterns
+    - [ ] Testing Mobile Apps
+    - [ ] Google ARCore
+    - [ ] CI/CD
+
+**Link to work:** :soon:
+
 ### Day 6: August 13, 2018 (Monday)
 
 **Today's Progress**: - Started [Firebase Android Codelab](https://codelabs.developers.google.com/codelabs/firebase-android/#0)
